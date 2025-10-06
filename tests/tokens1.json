@@ -1,0 +1,358 @@
+[
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 1,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 1,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "3",
+    "line": 1,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "lexeme": "+",
+    "line": 1,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 1,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 2,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "7",
+    "line": 2,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 2,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "lexeme": "*",
+    "line": 2,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 2,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 3,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "10",
+    "line": 3,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "3",
+    "line": 3,
+    "col": 6
+  },
+  {
+    "type": "OP",
+    "lexeme": "-",
+    "line": 3,
+    "col": 8
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 3,
+    "col": 10
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 4,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "8",
+    "line": 4,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 4,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "type_hint": "DIVR",
+    "lexeme": "|",
+    "line": 4,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 4,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 5,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "9",
+    "line": 5,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 5,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "type_hint": "DIVI",
+    "lexeme": "/",
+    "line": 5,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 5,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 6,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "9",
+    "line": 6,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 6,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "lexeme": "%",
+    "line": 6,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 6,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 7,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 7,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "8",
+    "line": 7,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "lexeme": "^",
+    "line": 7,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 7,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 8,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 8,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "3",
+    "line": 8,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "lexeme": "+",
+    "line": 8,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 8,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 9,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "5",
+    "line": 9,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "1",
+    "line": 9,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "lexeme": "-",
+    "line": 9,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 9,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 10,
+    "col": 1
+  },
+  {
+    "type": "NUM",
+    "lexeme": "6",
+    "line": 10,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "3",
+    "line": 10,
+    "col": 5
+  },
+  {
+    "type": "OP",
+    "lexeme": "*",
+    "line": 10,
+    "col": 7
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 10,
+    "col": 9
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 11,
+    "col": 1
+  },
+  {
+    "type": "LPAREN",
+    "lexeme": "(",
+    "line": 11,
+    "col": 3
+  },
+  {
+    "type": "NUM",
+    "lexeme": "2",
+    "line": 11,
+    "col": 4
+  },
+  {
+    "type": "NUM",
+    "lexeme": "3",
+    "line": 11,
+    "col": 6
+  },
+  {
+    "type": "OP",
+    "lexeme": "+",
+    "line": 11,
+    "col": 8
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 11,
+    "col": 10
+  },
+  {
+    "type": "RES",
+    "lexeme": "RES",
+    "line": 11,
+    "col": 12
+  },
+  {
+    "type": "RPAREN",
+    "lexeme": ")",
+    "line": 11,
+    "col": 14
+  },
+  {
+    "type": "EOF",
+    "lexeme": "<EOF>",
+    "line": 12,
+    "col": 1
+  }
+]
